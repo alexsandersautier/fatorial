@@ -1,0 +1,12 @@
+5 Q's
+
+1 - número
+2 - calcular a fatural do número
+3 - o número precisa ser maior ou igual a zero
+4 - a fatorial do número informado
+receber o número
+guardar o número
+validar se é um número  
+validar se o número é maior ou igual a zero
+multiplicar o número pelos seus antecessores maiores que zero
+mostrar o resultado
